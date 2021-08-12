@@ -1,1 +1,1 @@
-# deeplearning-neuromatch tutorials
+# Deep Learning Neuromatch Tutorials
